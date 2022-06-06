@@ -1,5 +1,5 @@
 <?php
  const ABC = '';
  $p = "abc";
- $c = "abc";
+ $d = "ghj";
 ?>
